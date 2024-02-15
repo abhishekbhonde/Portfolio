@@ -32,7 +32,7 @@ function MainSection() {
       <div className="md:mt-10 mt-4  md:mx-48 mx-10 md:text-lg text-sm text-white/60">
         A Third year Btech undergraduate student with specialized expertise in developing MERN
         (MongoDB, Express.js, React.js, Node.js) applications and deploying them
-        in the cloud using AWS (Amazon Web Services) tools. Highly motivated and
+        in the cloud using AWS (Amazon Web Services) and Devops Tools. Highly motivated and
         possessing the ability to work collaboratively within a team
         environment, I am adept at leveraging modern technologies to create
         efficient and scalable web solutions. With a strong foundation in

@@ -1,6 +1,6 @@
 // import React from "react";
 import { FaDownload } from "react-icons/fa";
-import resumee from "../assets/Abhishek Bhonde Resume.pdf";
+import Resume from "../assets/Resume.pdf";
 import { useNavigate } from "react-router-dom";
 
 function Buttons() {
@@ -11,7 +11,7 @@ function Buttons() {
         <button onClick={() => Navigate("/project")}>View Projects</button>
       </div>
       <div className="py-4 px-4 rounded-full border-4 bg-purple-900/30 border-white shadow-white/50 shadow-lg relative w-max mt-5 md:mt-0">
-        <a href={resumee} target="_blank" rel="noopener noreferrer">
+        <a href={Resume} target="_blank" rel="noopener noreferrer">
           <button
             className="flex items-center"
             onClick={() => {
